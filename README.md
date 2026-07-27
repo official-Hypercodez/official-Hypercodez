@@ -13,7 +13,7 @@
 
 # 🚀 About Me
 
-I'm an 18-year-old self-taught developer from India passionate about:
+I'm an 17-year-old self-taught developer from India passionate about:
 
 - Full-stack engineering
 - Mobile app development
@@ -315,7 +315,7 @@ Currently exploring:
 
 <br/>
 
-# Hi, I'm Sachin Siddhartha 👋
+# Hi, I'm Sachin Siddhartha(se sachin siddhartha) 👋
 
 ### Creator of Knowzup — Multimedia Knowledge Platform
 
